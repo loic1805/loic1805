@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loic Rakotoniary</h1>
-- 🔭 I’m currently working on a Flappy Bird AI using Neat Python
+- 🔭 I’m currently working on a Flappy Bird AI using NEAT Algorithm (in Python)
 
 - 🌱 I’m currently learning **Machine Learning and Azure**
 
