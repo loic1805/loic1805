@@ -25,7 +25,7 @@ I am open to a wide range of technical environments and industries, from **indus
 
 * 🔭 **Currently working on:** Python tooling, MCP-based services, APIs, automation and personal software projects.
 * 🌱 **Currently learning:** Computer graphics, applied mathematics, AI/ML, system architecture and advanced Python.
-* 🎯 **Long-term interests:** Software Engineering, Machine Learning, 3D technologies, computer vision, interactive systems and high-performance software.
+* 🎯 **Long-term interests:** Software Engineering, Machine Learning, 3D technologies, computer vision and interactive systems.
 * 🧠 **What I enjoy:** Algorithms, backend development, automation, mathematical problem solving and system design.
 
 ---
