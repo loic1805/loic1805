@@ -1,35 +1,59 @@
-<h1 align="center">Hi there, I'm Loic 👋</h1>
+<h1 align="center">Hi, I'm Loïc 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student @ Université Gustave Eiffel</b>
+  <b>Computer Engineering Student @ ESIEE Paris</b>
   <br>
-  Focused on Data Engineering, Machine Learning, and Software development.
+  Software Engineering • Artificial Intelligence • Computer Graphics
 </p>
 
 <p align="center">
-  <a href="https://loic1805.github.io/portfolioL/">🌐 Portfolio</a> • 
-  <a href="mailto:loicgasikara@gmail.com">📧 Contact Me</a>
+  <a href="https://loic1805.github.io/portfolioL/">🌐 Portfolio</a> •
+  <a href="mailto:irimbola.rakotoniary@edu.esiee.fr">📧 Contact</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I am transitioning from general full-stack development to **Data Engineering**. I enjoy building backends, pipelines and understanding the math behind algorithms.
 
-* 🔭 **Currently working on:** **F1 Analytics Engine:** A Python telemetry analysis tool using FastF1 and Pandas.
-* 🌱 **Learning:** Advanced SQL, Azure Data Factory, and Machine Learning.
-* 🎓 **Education:** Computer Science degree with a focus on algorithms and system architecture.
+I'm a Computer Engineering student at **ESIEE Paris**, specializing in **Computer Science and Applications**.
+
+My main interests are **software engineering, artificial intelligence, computer graphics, backend development, and systems programming**. I enjoy understanding how things work under the hood and turning ideas into reliable, well-structured software.
+
+I am currently looking for a **36-month apprenticeship opportunity in Software Engineering**, starting as part of my engineering curriculum at ESIEE Paris.
+
+I am open to a wide range of technical environments and industries, from **industrial and embedded software** to **SaaS platforms, backend systems, AI-driven products, developer tools, and large-scale software applications**. What matters most to me is working on technically meaningful projects, learning from experienced engineers, and contributing to real-world software.
+
+* 🔭 **Currently working on:** Python tooling, MCP-based services, APIs, automation and personal software projects.
+* 🌱 **Currently learning:** Computer graphics, applied mathematics, AI/ML, system architecture and advanced Python.
+* 🎯 **Long-term interests:** Software Engineering, Machine Learning, 3D technologies, computer vision, interactive systems and high-performance software.
+* 🧠 **What I enjoy:** Algorithms, backend development, automation, mathematical problem solving and system design.
 
 ---
 
 ### 🛠️ Technical Stack
-I have experience across the full stack, with a growing focus on data-centric tools and DevOps pipelines.
 
 | **Domain** | **Technologies** |
 |:---:|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Data & Databases** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
-| **Web & Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend & Web** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **DevOps & Systems** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Tools & Concepts** | REST APIs • MCP • CI/CD • Algorithms • Data Structures • OOP • Linux Systems |
 
 ---
+
+### 📚 Current Focus
+
+```text
+Software Engineering
+├── Python
+├── Algorithms & Data Structures
+├── Backend Architecture
+└── Systems & DevOps
+
+Computer Engineering
+├── Mathematics
+├── Computer Graphics & 3D
+├── Computer Architecture
+└── Artificial Intelligence
+```
